@@ -10,7 +10,7 @@ Aplikasi untuk pengelola dan pelanggan toko perawatan kucing
 
 Project: Aplikasi MARPPLY ANABUL(MARKET SUPPLY ANABUL)
 
-## Fitur
+## Fitur Konsumen
 1. Home dashboard
 2. List product
 3. deskripsi product
@@ -22,3 +22,12 @@ Project: Aplikasi MARPPLY ANABUL(MARKET SUPPLY ANABUL)
 9. login
 10. cari product
 11. update profile diri
+
+## Fitur penjual
+1. registrasi
+2. login
+3. mengelola produk 
+4. mengelola penjualan
+5. lihat jumlah pesanan
+6. laporan produk terjual
+7. update profile diri
